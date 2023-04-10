@@ -26,7 +26,10 @@ This service is for uploading images to Google Drive and extracting images with 
 
 <img width="1061" alt="image" src="https://user-images.githubusercontent.com/15353434/230915041-b08382ad-2b2c-443e-bdec-0dd8b086122a.png">
 
-- Service for integrated Teressa OCR
+- Service for integrated Teressa OCR and Change Color Code
+
+<img width="1061" alt="image" src="https://user-images.githubusercontent.com/15353434/230915574-b0acf002-4723-47df-9c88-7f883dd8c0a2.png">
+
 
 ## Result
 
@@ -38,10 +41,10 @@ This service is for uploading images to Google Drive and extracting images with 
 <img width="1014" alt="image" src="https://user-images.githubusercontent.com/15353434/230913762-fadf853b-5f35-4932-90f9-8964b10ecdf5.png">
 
 
-
 ## Source
 - https://developers.google.com/drive/api/guides/manage-uploads
 - https://technicalsand.com/file-operations-in-google-drive-api-with-spring-boot/
+- https://www.geeksforgeeks.org/tesseract-ocr-with-java-with-examples/
 
 
 
